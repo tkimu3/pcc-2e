@@ -1,3 +1,5 @@
+# Print the name using the three stripping functions
+# strip(), lstrip(), rstrip()
 first_name = " Steve "
 last_name = " Jobs "
 print(first_name)
